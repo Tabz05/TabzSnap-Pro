@@ -1,6 +1,6 @@
 # tabzsnappro
 
-A new Flutter project.
+Social media Flutter application.
 
 ## Getting Started
 
